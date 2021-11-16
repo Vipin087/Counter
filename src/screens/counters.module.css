@@ -1,0 +1,29 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  /* flex-direction: column; */
+  /* margin-left: 42%; */
+}
+
+
+.globalContainer {
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.globalContainer button {
+  padding: 10px 15px;
+  height: 40px;
+  text-align: center;
+  background-color: #00d0ff;
+  color: white;
+  border: 1px solid #00d0ff;
+  border-radius: 5px;
+}
+
+.boxContainer p {
+  color: #00d0ff;
+  cursor: pointer;
+}
